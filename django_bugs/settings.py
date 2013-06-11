@@ -116,7 +116,7 @@ INSTALLED_APPS = (
     'django.contrib.sites',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'nonefficient_foreign_key_exclude',
+    'inefficient_foreign_key_exclude',
     'related_objects_save_excepton',
     # Uncomment the next line to enable the admin:
     # 'django.contrib.admin',
